@@ -1,5 +1,7 @@
 # Reto de Componente de Vista Previa de Artículo con HTML, CSS y JavaScript
 
+LINK DE DESPLIEGUE = https://dsaw-2024-2.github.io/parcial-i-DanielForero14/index
+
 ![Vista previa del diseño para el reto del componente de vista previa de artículo](./design/desktop-preview.jpg)
 ![Vista previa del diseño para el reto del componente de vista previa de artículo](./design/desktop-active-state.jpg)
 
